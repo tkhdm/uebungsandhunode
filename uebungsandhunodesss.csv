@@ -1,11 +1,11 @@
 id,name,party,sector,country
 lk,Lars Klingbeil,SPD,Politik,Deutschland
 uv,Ursula von der Leyen,CDU,Politik,Deutschland
-nr,Norbert Röttgen,CDU,Politik,Deutschland
+nr,Norbert Roettgen,CDU,Politik,Deutschland
 sw,Sahra Wagenknecht,LINKE,Politik,Deutschland
-cs,Constanze Stelzenmüller,,Wissenschaften,USA
+cs,Constanze Stelzenmueller,,Wissenschaften,USA
 cli,Christian Lindner,FDP,Politik,Deutschland
-ks,Karl Schlögel,,Wissenschaften,Deutschland
+ks,Karl Schloegel,,Wissenschaften,Deutschland
 lm,Ljudmyla Melnyk,,Wissenschaften,Ukraine
 kd,Kristina Dunz,,Journalismus,Deutschland
 el,Egils Levits,,Politik,Lettland
@@ -14,9 +14,9 @@ ft,Frans Timmermans,,Politik,Deutschland
 am,Andrij Melnyk,,Politik,Ukraine
 al,Alexander Graf Lambsdorff,FDP,Politik,Deutschland
 er,Egon Ramms,,Bundeswehr,Deutschland
-500,,,,
-501,,,,
-502,,,,
+500,Folge 500,,,,
+501,Folge 501,,,,
+502,Folge 502,,,,
 FDP,,,,
 GRUENE,,,,
 LINKE,,,,
